@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ucill</h1>
 <h3 align="center">Web3 maxy</h3>
 
-🔭 I’m currently working on [Tongkrongan Liquidity](Private circle).
+🔭 I’m currently working on 88key_airdropcrack (private group telegram). as a bot maker
 
 🌱 I’m currently learning: I’m exploring blockchain technology, GameFi, consensus mechanisms (PoW, PoS), Layer 1, Layer 2, smart contracts, DeFi, NFTs, blockchain security, and everything related to crypto. 🚀
 

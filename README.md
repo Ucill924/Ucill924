@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ucill</h1>
 <h3 align="center">Web3 maxy</h3>
 
-- 🔭 I’m currently working on [Tongkrongan Liqudity](Private circle)
+🔭 I’m currently working on [Tongkrongan Liquidity](Private circle).
 
-- 🌱 I’m currently learning **🌱 I’m currently learning: I’m exploring blockchain technology, GameFi, consensus mechanisms (PoW, PoS), Layer 1, Layer 2, smart contracts, DeFi, NFTs, blockchain security, and everything related to crypto. 🚀**
+🌱 I’m currently learning: I’m exploring blockchain technology, GameFi, consensus mechanisms (PoW, PoS), Layer 1, Layer 2, smart contracts, DeFi, NFTs, blockchain security, and everything related to crypto. 🚀
 
-- 📫 How to reach me **me4web3@webcill.ny**
+📫 How to reach me: me4web3@webcill.ny
 
+🛠️ Services Offered:
+I accept commissions for creating Airdrop Task Bots for platforms like Galxe, Gleam, and other similar platforms. I also create customized airdrop bots according to your specific needs. Additionally, I provide services for all airdrops requiring on-chain interaction across various blockchains, including EVM, Solana (SOL), SUI, and more.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ucil.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ucil.dev" height="30" width="40" /></a>
